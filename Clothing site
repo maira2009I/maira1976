@@ -6,11 +6,11 @@
 
 <style>
 h1 {
-color: #FFFFFF;
-background-color: darkslateblue; 
+color: #82e0aa;
+background-color: #1a5276; 
 }
 pink{
-background-color: darkslateblue;
+background-color: #e1d5d2;
 }
 
 }
@@ -42,5 +42,3 @@ color: darkblue;
 
 </body>
 </html>
-
-
