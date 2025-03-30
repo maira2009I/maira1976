@@ -1,44 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Travel</title>
-
-<style>
-h1 {
-color: #82e0aa;
-background-color: #1a5276; 
-}
-pink{
-background-color: #e1d5d2;
-}
-
-}
-.new{
-color: darkblue;
-}
-</style>
-
+<title>Hobbies</title>
+ <meta charset="utf-8">
 </head>
-<body style=background-color:#f8c471;”>
+<body style=background-color:powderblue;”>
 
-<h1>My Travel Website</h1>
-<h3> By:Maira Iffat</h1>
-<img src= “https://www.heraldinsight.co.kr/news/photo/202303/2006_3067_421.gif” alt= "flag" width= “203”>
+<h1 style=background-color:DodgerBlue;”>My favourite hobbies</h1>
 <h2 style=background-color:lightgrey;”>Introduction</h2>
-<p> Today I will be taking you through one of the places that I would like to visit. This spicific location is Istanbul which is located in Turkey. This location is quite beautiful with lots of intricate structures and landscapes that immediately draw in the attention of visitors. Not only this, but the food in this country is also quite tasty.</p>
-<h3 style=background-color:lightgrey;”>My travel site explained.</h3>
-<img src= “https://d36tnp772eyphs.cloudfront.net/blogs/1/2015/06/istanbul-architecture.jpg” alt= “Istanbul” width= “203”>
-<p><strong>Istanbul</strong> is a very beautiful location that is packed with a diverse culture and traditions. The incredible scenery is what truly makes this location quite distinct. <br> Istanbul is one of the largest cities in Turkey. Many of the structures in Turkey have vibrant colours, and shapes, something that we don't see on a regular basis in most European contries.</br> </p>
-<p><strong>Some of the most famous types of food in Istanbul are listed below.</strong></p>
+<p>A hobby is typically something someone does for <strong>pleasure, entertainment, or relaxation purposes. </strong> Hobbies are activities that you enjoy doing, and allow you to express your creative abilities. <br>Today I will be going through <strong> 3 of my favourite hobbies </strong> and explain why they are of interest to me. </br> </p>
+<h3 style=background-color:lightgrey;”>Explanation of my hobbies</h3>
+<img src= “https://www.freeiconspng.com/thumbs/art-icon/art-icon--hobbies-iconset--hadezign-7.png” alt= “art” width= “203”>
+<p><strong>Art </strong>is a fun way to express your <em>creative abilities.</em> Art also allows me to keep my mind off of things. In art you can switch around from different materials to experiment with them and see which medium works best for you. <br> In any piece of artwork I am able to <strong>vent out my feelings</strong> and place them on the page. Whenever I experience a sensation of joy I would typically use colours that link with happiness such as yellow to make my artwork.</br> Sometimes it’s hard to express your emotions through words, but art allows me to display my thoughts through colours, lines and shapes on a piece of paper.</p>
+<p>Some of the most common art mediums are listed below.</p>
 <ol>
-<li>Lahmacun</li>
-<li>Baklava</li>
-<li>Doner Kebab</li>
-<li>Kofta</li>
+<li>Coloured pencils</li>
+<li>Acrylic paint</li>
+<li>Markers</li>
+<li>Watercolour</li>
 </ol>
-<img src= “https://www.onthegotours.com/repository/Istanbul-Highlight--Web-Ready-306161467972129.jpg” alt= “landscape” width= “203”>
-<p>Turkey is full of large lakes and various appealing structures. This, and the fact that the country has a variety of food makes it one of the best tourist locations to visit.</p>
+<img src= “https://cdn-icons-png.flaticon.com/512/8635/8635996.png” alt= “photography” width= “203”>
+<p> <strong>Photography</strong> is another of my interests. Photography allows one to <em>capture important moments </em>and those moments serve as a reminder of past events that had either brought us joy, sadness, or excitement. <br>Photography is also a form of art, pictures that are well taken can show the beauty in even the simplest things.</br></p>
+<img src= “https://cdn-icons-png.flaticon.com/512/4072/4072217.png” alt= “reading” width= “203”>
+<p> <strong>Reading</strong> is not only interesting for me, but it opens up a fantasy world where I can essentially escape from reality. <br>Not only is reading one of my favourite things to do in my free time, but studies have also shown that reading <em> improves your vocabulary significantly,</em> along with your comprehension abilities. </br> </p>
 
 </body>
 </html>
+
